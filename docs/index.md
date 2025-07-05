@@ -7,7 +7,7 @@ hero:
   text: "A brand new Mario Kart Wii experience."
   tagline: Created by VinnyPix and MarioFan322 with help from Robin91862
   image:
-    src: /riibound.png
+    src: riibound.png
     alt: "Mario Kart: Riibound Logo"
   actions:
     - theme: brand
@@ -20,7 +20,7 @@ hero:
 features:
   - title: Playable Custom Cups
     details: Experience custom cups featuring fan-favorite tracks from Mario Kart games.
-  - title: Expanded Character Roster
-    details: Race as new and returning characters, for example Gordon Freeman from Half-Life.
+  - title: Race with Ghosts!
+    details: Time Trials are currently inaccessible, but the feature will be implemented in the future.
   - title: Online Multiplayer Support
-    details: Compete with friends and players worldwide using Wiimmfi integration.
+    details: Compete with friends and players worldwide using Wiimmfi integration (coming soon).

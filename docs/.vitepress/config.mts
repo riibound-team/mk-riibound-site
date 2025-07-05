@@ -29,7 +29,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide' },
-      { text: 'About', link: '/about' },
       { text: 'Credits', link: '/credits' }
     ],
 
@@ -42,7 +41,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'youtube', link: 'https://www.youtube.com/@VinnyPix' },
-      { icon: 'discord', link: 'https://discord.gg/BD4sRWPdhm' }
+      { icon: 'discord', link: 'https://discord.gg/BD4sRWPdhm' },
+      { icon: 'github', link: 'https://github.com/riibound-team/mk-riibound-site' }
     ],
 
     logo: 'riibound.png'
