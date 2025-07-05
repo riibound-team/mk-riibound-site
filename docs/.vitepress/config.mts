@@ -22,7 +22,7 @@ function getSidebar(path: string) {
 
 export default defineConfig({
   title: "Mario Kart: Riibound",
-  description: "A new Mario Kart Wii experience.",
+  description: "A brand new Mario Kart Wii experience.",
   head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
   themeConfig: {
     nav: [
