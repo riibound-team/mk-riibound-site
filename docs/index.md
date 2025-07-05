@@ -7,7 +7,7 @@ hero:
   text: "A brand new Mario Kart Wii experience."
   tagline: Created by VinnyPix and MarioFan322 with help from Robin91862
   image:
-    src: /images/riibound.png
+    src: /riibound.png
     alt: "Mario Kart: Riibound Logo"
   actions:
     - theme: brand
