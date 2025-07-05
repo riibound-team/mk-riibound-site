@@ -24,7 +24,6 @@ export default defineConfig({
   title: "Mario Kart: Riibound",
   description: "A brand new Mario Kart Wii experience.",
   head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
-  base: '/mk-riibound-site/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
