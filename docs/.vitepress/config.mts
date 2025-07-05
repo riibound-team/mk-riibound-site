@@ -23,7 +23,7 @@ function getSidebar(path: string) {
 export default defineConfig({
   title: "Mario Kart: Riibound",
   description: "A brand new Mario Kart Wii experience.",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
   base: '/mk-riibound-site/',
   themeConfig: {
     nav: [
@@ -45,6 +45,6 @@ export default defineConfig({
       { icon: 'discord', link: 'https://discord.gg/BD4sRWPdhm' }
     ],
 
-    logo: '/riibound.png'
+    logo: 'riibound.png'
   }
 })
