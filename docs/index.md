@@ -14,6 +14,9 @@ hero:
       text: Install guide
       link: /guide
     - theme: alt
+      text: Download
+      link: /download
+    - theme: alt
       text: Credits
       link: /credits
 

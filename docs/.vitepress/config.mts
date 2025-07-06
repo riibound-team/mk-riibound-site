@@ -28,6 +28,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide' },
+      { text: 'Download', link: '/download' },
       { text: 'Credits', link: '/credits' }
     ],
 
