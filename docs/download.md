@@ -7,4 +7,4 @@ Main Download Link:
 
 Mirrors:
 - [OneDrive](https://1drv.ms/u/c/81f6b679285a3ef1/EVvldhtybMNFhow9mVf0SvQBiHO9aEZ9IgRA9PUhjlotHA?e=jZyBDb)
-- Icedrive *(coming soon)*
+- [Icedrive](https://icedrive.net/s/Tz1x44zyRTkbkaXPT1426gRZX5WF)
